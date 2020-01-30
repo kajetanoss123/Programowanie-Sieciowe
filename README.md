@@ -1,8 +1,8 @@
 # Programowanie-Sieciowe
 Projekt programowanie sieciowe
 Wymagania:
-  Server app:
-    - npm 12.x
+  Server app:/n
+    - npm 12.x\n
     - mongoose
     - express
     - dotenv
