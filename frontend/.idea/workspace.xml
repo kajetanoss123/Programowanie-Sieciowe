@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e8335eb-997e-4201-9727-d2f3856ab0a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQcqfs7V08oE26qlsPSQCO2kTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (web-app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (web-app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e8335eb-997e-4201-9727-d2f3856ab0a0" name="Default Changelist" comment="" />
+      <created>1579085451240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579085451240</updated>
+      <workItem from="1579085452960" duration="2528000" />
+      <workItem from="1579097172390" duration="1481000" />
+      <workItem from="1579257191401" duration="738000" />
+      <workItem from="1579457692006" duration="2118000" />
+      <workItem from="1579459893531" duration="5151000" />
+      <workItem from="1579474127619" duration="1214000" />
+      <workItem from="1579723134993" duration="1529000" />
+      <workItem from="1579776593099" duration="18000" />
+      <workItem from="1579819406548" duration="3606000" />
+      <workItem from="1579863991454" duration="7116000" />
+      <workItem from="1580050660346" duration="2543000" />
+      <workItem from="1580058745649" duration="770000" />
+      <workItem from="1580067082155" duration="5136000" />
+      <workItem from="1580128900128" duration="643000" />
+      <workItem from="1580233473310" duration="27000" />
+      <workItem from="1580304101711" duration="1501000" />
+      <workItem from="1580308053930" duration="1758000" />
+      <workItem from="1580311944661" duration="5916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3203" y="268" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579459880443">
+      <screen x="70" y="27" width="4410" height="1413" />
+    </state>
+    <state x="3203" y="268" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.4410.1413@70.27.4410.1413" timestamp="1579459880443" />
+    <state x="3253" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579086474078">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3253" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.2490.1413/2560.0.1920.1080@2560.0.1920.1080" timestamp="1579086474078" />
+    <state x="1098" y="491" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580233496557">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="1098" y="491" width="424" height="491" key="FileChooserDialogImpl/70.27.2490.1413/2560.0.1920.1080@70.27.2490.1413" timestamp="1580233496557" />
+    <state x="1016" y="405" width="424" height="491" key="FileChooserDialogImpl/70.27.4410.1413@70.27.4410.1413" timestamp="1579459697826" />
+    <state x="804" y="368" width="1022" height="737" key="SettingsEditor" timestamp="1579257265155">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="804" y="368" width="1022" height="737" key="SettingsEditor/70.27.2490.1413/2560.0.1920.1080@70.27.2490.1413" timestamp="1579257265155" />
+    <state x="1148" y="622" width="454" height="390" key="org.angular.cli.generate" timestamp="1580315352290">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="3391" y="455" width="350" height="298" key="org.angular.cli.generate/70.27.2490.1413/2560.0.1920.1080@2560.0.1920.1080" timestamp="1579086713791" />
+    <state x="1148" y="622" width="454" height="390" key="org.angular.cli.generate/70.27.2490.1413/2560.0.1920.1080@70.27.2490.1413" timestamp="1580315352290" />
+  </component>
+</project>

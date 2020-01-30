@@ -1,0 +1,42 @@
+<div fxFlex="100" fxLayout="column" fxLayoutAlign=" center" fxLayoutGap="2%">
+  <mat-label>USTAWIENIA</mat-label>
+  <div fxLayout="row" fxLayoutGap="1%">
+    <div fxLayout="column">
+      <mat-label>TEMPERATURA</mat-label>
+      <mat-form-field>
+        <input matInput placeholder="TempZad">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="HisterezaGórna">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="HisterezaDolna">
+      </mat-form-field>
+    </div>
+    <div fxLayout="column">
+      <mat-label>NAŚWIETALNIE</mat-label>
+      <mat-form-field>
+        <input matInput placeholder="Godzina startu">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Ilość godzin">
+      </mat-form-field>
+    </div>
+    <div fxLayout="column">
+      <mat-label>PODLEWANIE</mat-label>
+      <mat-form-field>
+        <input matInput placeholder="Godzina startu">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Czas trwania">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="Limit podlań">
+      </mat-form-field>
+    </div>
+  </div>
+  <div fxLayout="row" fxLayoutGap="1%">
+    <button mat-raised-button>ODCZYTAJ</button>
+    <button mat-raised-button>USTAW</button>
+  </div>
+</div>

@@ -1,0 +1,370 @@
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T102121.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T101949.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T101940.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T101824.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T101814.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T101750.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T101740.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T101704.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T101050.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T100953.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T100901.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+
+<> 2020-01-19T100815.500.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T100800.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T100050.500.json
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095702.500.json
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095325.500.json
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095252.404.html
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095124.404.html
+
+###
+
+GET http://localhost:3000/measurement/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095053.404.html
+
+###
+
+GET http://localhost:3000/measurement/lastly/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095040.404.html
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T095020.404.html
+
+###
+
+GET http://localhost:3000/measurement/last/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094859.500.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094848.500.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094835.404.html
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094130.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094053.200.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094039.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T094020.500.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T091136.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090943.500.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090452.500.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090148.500.json
+
+###
+
+GET http://localhost:3000/measurement/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090138.200.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090128.500.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090113.500.json
+
+###
+
+GET http://localhost:3000/measurement/last
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T090024.500.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T082119.200.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T073524.200.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-19T071637.200.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-15T121707.200.json
+
+###
+
+GET http://localhost:3000/measurement
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-15T112650.200.json
+
+###
+

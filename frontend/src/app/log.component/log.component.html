@@ -1,0 +1,28 @@
+<div fxFlex="100" fxLayout="column" class="mat-elevation-z8">
+  <table mat-table [dataSource]="dataSource" datapagesize="9">
+
+    <ng-container matColumnDef="timeStamp">
+      <th mat-header-cell *matHeaderCellDef> Time Stamp </th>
+      <td mat-cell *matCellDef="let element"> {{element.date | date:'medium'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="temperature">
+      <th mat-header-cell *matHeaderCellDef> Temperature </th>
+      <td mat-cell *matCellDef="let element"> {{element.temperature}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="humidity">
+      <th mat-header-cell *matHeaderCellDef> Humidity </th>
+      <td mat-cell *matCellDef="let element"> {{element.humidity}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="pressure">
+      <th mat-header-cell *matHeaderCellDef> Pressure </th>
+      <td mat-cell *matCellDef="let element"> {{element.pressure}} </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+  <mat-paginator [pageSizeOptions]="[9]" showFirstLastButtons></mat-paginator>
+</div>

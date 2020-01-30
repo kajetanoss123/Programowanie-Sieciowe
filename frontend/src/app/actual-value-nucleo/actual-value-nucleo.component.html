@@ -1,0 +1,11 @@
+<mat-list fxFlex="100" fxLayout="column" fxLayoutAlign="space-around">
+
+    <mat-list-item fxFlex="25" fxLayoutAlign="center center">TEMPERATURA: {{measurement.temperature.toFixed(1)}}['c]</mat-list-item>
+    <mat-divider></mat-divider >
+    <mat-list-item fxFlex="25" fxLayoutAlign="center center">WILGOTNOŚĆ: {{measurement.humidity.toFixed(1)}}%[rH]</mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item fxFlex="25" fxLayoutAlign="center center">CISNIENIE: {{measurement.pressure.toFixed(2)}} [hPa]</mat-list-item>
+    <mat-divider></mat-divider>
+    <mat-list-item fxFlex="25" fxLayoutAlign="center center">OSTATNIA DATA: {{measurement.date | date: 'medium'}}</mat-list-item>
+
+</mat-list>
