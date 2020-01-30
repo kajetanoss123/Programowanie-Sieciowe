@@ -13,6 +13,7 @@
   - Flex-layouy
   - Angular Material
   - ng2-charts
+  - webSocket z rxjs
   ### Urządzenia:
   - NodeMCU v3 z czujnikiem BME280 + platformIO z bibliotekaki: ArduinoJson, SparkFunBME280, WebSocketsClient
   - Nucleo-F429ZI z nakładką X-NUCLEO-IKS01A2 + mbed online compiler z bibliotekami: Websocket i XNucleoIKS01A2
